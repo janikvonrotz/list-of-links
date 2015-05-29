@@ -277,7 +277,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://webdesignerwall.com/ 
 * http://www.smashingmagazine.com/ 
  
-### prozess modelling 
+### process modelling 
  
 * http://academic.signavio.com/p/login 
  
@@ -383,7 +383,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  
 ### PowerShell 
  
-https://github.com/janikvonrotz/awesome-powershell 
+* https://github.com/janikvonrotz/awesome-powershell 
  
 ### SharePoint 
  
