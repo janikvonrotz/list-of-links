@@ -1,6 +1,6 @@
 # list-of-links
 
-> A curated list of delightful [personal](#personal),[bbusiness](#business), [development](#development), [education](#education) and [shared](#shared) links.
+> A curated list of delightful [personal](#personal), [business](#business), [development](#development), [education](#education) and [shared](#shared) links.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
