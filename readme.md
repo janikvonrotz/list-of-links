@@ -414,26 +414,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://wordpress.org/news/ 
 * http://wordpress.org/themes/required 
 * http://themeshaper.com/2012/10/22/the-themeshaper-wordpress-theme-tutorial-2nd-edition/ 
- 
-### WordPress Plugins 
- 
-Must 
- 
-* http://wordpress.org/plugins/oembed-instagram/ 
-* http://wordpress.org/plugins/sugar-calendar-lite/ 
-* http://wordpress.org/plugins/backupwordpress/ 
-* http://wordpress.org/plugins/syntaxhighlighter/ 
-* http://wordpress.org/plugins/disqus-comment-system/ 
-* http://wordpress.org/plugins/wp-piwik/ 
-* http://wordpress.org/plugins/jetpack/ 
-* http://wordpress.org/plugins/oembed-gist/ 
-* https://wordpress.org/plugins/image-captcha/screenshots/ 
-* https://wordpress.org/plugins/enable-media-replace/ 
- 
-Optional 
- 
-* https://wordpress.org/plugins/widgets-on-pages/ 
-* https://wordpress.org/plugins/qtranslate-xp/ 
+* https://github.com/janikvonrotz/wordpres-checklist
  
 ### Typo3 
  
