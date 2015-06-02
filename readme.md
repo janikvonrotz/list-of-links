@@ -90,7 +90,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * https://code.google.com/p/open-sauce/ 
 * http://xhalo.tk/halo-downloads 
  
- 
 ### languages 
  
 * https://www.duolingo.com/ 
@@ -184,11 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://www.srf.ch/meteo 
 * http://www.gipfelbuch.ch/ 
 * http://www.swisstopo.admin.ch/ 
- 
-### tools 
- 
-* http://temp-mail.org/ 
- 
+
 ### traveling 
  
 * http://www.wwoof.com.au/ 
@@ -200,6 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://old.alexmaccaw.com//posts/how_to_travel_around_the_world 
 * http://www.lonelyplanet.com/ 
 * http://wikitravel.org/de/Hauptseite 
+* [Places I've been to](https://gist.github.com/janikvonrotz/601679d884a3405b26bc)
  
 ### videos 
  
@@ -241,11 +237,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  
 * http://www.glype.com/ 
  
-### development tools 
+### tools 
  
 * http://www.hurl.it/ 
-* https://sublime.wbond.net/ 
-* http://www.microsoft.com/web/webmatrix/next/ 
 * http://jsoneditoronline.org/ 
 * http://www.kimonolabs.com/ 
 * http://www.freeformatter.com/ 
@@ -256,6 +250,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://icomoon.io/#home 
 * https://bitnami.com/stacks 
 * https://waffle.io 
+* http://temp-mail.org/ 
  
 ### web development 
  
@@ -263,10 +258,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://www.webdesignrepo.com/ 
 * https://gibbon.co/ 
 * http://flypixel.com/ 
-* http://html5up.net/ 
 * https://www.theleagueofmoveabletype.com/ 
-* https://www.mapbox.com/ 
 * http://cssmediaqueries.com/ 
+
+### maps
+
+* https://www.mapbox.com/ 
+* http://geojson.io/
+
+### showcase
+
+* http://html5up.net/
  
 ### web development blog 
  
