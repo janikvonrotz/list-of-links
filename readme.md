@@ -362,7 +362,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Juju 
  
 * https://juju.ubuntu.com/ 
- 
+
+### Meteor
+
+* https://book.discovermeteor.com/
+* http://angular-meteor.com/
+
 ### Laravel 
  
 * http://cheats.jesse-obrien.ca/ 
