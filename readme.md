@@ -25,15 +25,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### client software 
  
 * http://handbrake.fr/ 
-* https://windirstat.info/ 
-* http://clonezilla.org/ 
-* http://www.wireshark.org/ 
-* http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/ 
-* http://thepiratebay.se/user/Ching_Liu/ 
 * http://deluge-torrent.org/ 
 * http://sourceforge.net/p/keepass/news/ 
 * http://www.mp3tag.de/en/ 
 * https://popcorntime.io/ 
+* https://screentogif.codeplex.com/
  
 ### books 
  
@@ -65,7 +61,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  
 * http://yts.re/browse-movie 
 * https://thepiratebay.se/ 
-* http://inamsoftwares.com/ 
 * http://sourceforge.net/ 
 * http://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=ccc35b40-749b-e011-969d-0030487d8897&vsro=8&JSEnabled=1 
  
@@ -119,8 +114,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://justdelete.me/ 
 * http://feedly.com/ 
 * https://ifttt.com/ 
-* http://speedof.me/ 
-* http://pipes.yahoo.com/ 
 * http://prezi.com/ 
 * https://mail.google.com 
  
@@ -212,19 +205,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  
 ### webhosting 
  
-* https://flow.jumpstarter.io 
-* https://my.phpcloud.com/ 
 * http://piwik.org/ 
-* https://www.nic.ch 
 * https://www.startssl.com/ 
 * http://aws.amazon.com/de/ 
 * https://www.google.com/analytics 
-* http://www.hoststar.ch/ 
 * http://developers.google.com/speed/pagespeed/insights/ 
 * http://tools.pingdom.com/fpt/ 
-* http://ajenti.org/ 
 * https://www.google.com/webmasters 
- 
+
+---
+
 ## business 
 
 ### go4web 
@@ -234,28 +224,32 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### snowflake 
  
 * http://blog.snowflake.ch/ 
- 
+
+---
+
 ## development 
  
 ### server software 
  
 * http://www.glype.com/ 
  
-### tools 
+### design tools 
  
 * http://www.hurl.it/ 
-* http://jsoneditoronline.org/ 
-* http://www.kimonolabs.com/ 
-* http://www.freeformatter.com/ 
 * http://www.fontsquirrel.com/tools/webfont-generator 
-* http://thetoolbox.cc/ 
-* https://www.inkfilepicker.com/ 
-* http://www.upc.at/internet/speedtest/ 
 * http://icomoon.io/#home 
+* 
+### coding 
+
+* http://jsoneditoronline.org/ 
+* http://www.freeformatter.com/ 
+* http://thetoolbox.cc/ 
+
+### environment
+
 * https://bitnami.com/stacks 
-* https://waffle.io 
 * http://temp-mail.org/ 
- 
+
 ### web development 
  
 * http://www.iana.org/domains/reserved 
@@ -264,6 +258,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://flypixel.com/ 
 * https://www.theleagueofmoveabletype.com/ 
 * http://cssmediaqueries.com/ 
+
+### project management
+
+* * https://waffle.io 
 
 ### maps
 
@@ -287,6 +285,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  
 * http://academic.signavio.com/p/login 
  
+---
+
 ## education
  
 ### computer science 
@@ -315,8 +315,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://twofactorauth.org/ 
 * https://haveibeenpwned.com/ 
 * https://letsencrypt.org/feed.xml 
- 
-## shared 
+
+---
+
+## projects 
  
 ### Active Directory 
  
