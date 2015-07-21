@@ -370,6 +370,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * https://book.discovermeteor.com/
 * http://angular-meteor.com/
+* https://kadira.io/
 
 ### Laravel 
  
