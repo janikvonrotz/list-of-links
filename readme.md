@@ -63,7 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://yts.re/browse-movie 
 * https://thepiratebay.se/ 
 * http://sourceforge.net/ 
-* http://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=ccc35b40-749b-e011-969d-0030487d8897&vsro=8&JSEnabled=1 
+* http://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=ccc35b40-749b-e011-969d-0030487d8897&vsro=8&JSEnabled=1
  
 ### eGovernment 
  
@@ -150,6 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://photomichaelwolf.com/# 
 * https://unsplash.com/ 
 * http://www.thisiscolossal.com/ 
+* https://www.google.com/nikcollection/
  
 ### search 
  
