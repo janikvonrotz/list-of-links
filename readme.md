@@ -283,6 +283,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://webdesignerwall.com/ 
 * http://www.smashingmagazine.com/ 
  
+### web development tools
+
+* http://dev.modern.ie/tools/
+
 ### process modelling 
  
 * http://academic.signavio.com/p/login 
@@ -422,7 +426,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Windows 
  
 * http://windows.microsoft.com/de-AT/windows/security-essentials-download 
-* [Remote Server Administration Tools for Windows 8](http://www.microsoft.com/en-us/download/details.aspx?id=28972) 
  
 ### WordPress 
  
