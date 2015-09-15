@@ -276,6 +276,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  
 ### web development blog 
  
+* http://sidebar.io/
 * http://blog.teamtreehouse.com/ 
 * http://css-tricks.com/ 
 * http://alistapart.com/blog 
