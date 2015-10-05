@@ -175,7 +175,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://aptrix.ch/ 
 * http://nurf.ch/ 
 * http://blog.kiell.com/ 
- 
+* http://www.mobilesport.ch/
+
 ### skitour 
  
 * http://www.slf.ch/ 
