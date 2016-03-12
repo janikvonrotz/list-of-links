@@ -220,6 +220,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## business 
 
+### job
+
+* http://registry.jsonresume.org/
+
 ### go4web 
  
 * http://go4blog.ch/ 
