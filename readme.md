@@ -83,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  
 * http://stackexchange.com/ 
 * http://reddit.com 
+* https://talk.mantrajs.com
  
 ### games 
  
@@ -126,6 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://www.der-postillon.com/ 
 * http://www.theatlantic.com/ 
 * http://www.wired.com/ 
+* https://www.technologyreview.com
  
 ### online shops 
  
@@ -236,7 +238,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## development 
  
-### server software 
+### server software f
  
 * http://www.glype.com/ 
  
