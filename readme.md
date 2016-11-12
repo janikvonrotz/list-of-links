@@ -13,7 +13,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://www.thisiscolossal.com/ 
  
 ### blog 
- 
+
+* http://waitbutwhy.com/
 * http://cr8if.tumblr.com/ 
 * http://www.minimallyminimal.com/ 
 * http://paulstamatiou.com/ 
@@ -210,7 +211,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### webhosting 
  
 * http://piwik.org/ 
-* https://www.startssl.com/ 
 * http://aws.amazon.com/de/ 
 * https://www.google.com/analytics 
 * http://developers.google.com/speed/pagespeed/insights/ 
@@ -237,7 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## development 
  
-### server software f
+### server software
  
 * http://www.glype.com/ 
  
