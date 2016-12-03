@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://www.seehearparty.com/ 
 * http://www.chromeexperiments.com/ 
 * http://www.thisiscolossal.com/ 
+* http://www.chrismaggio.biz/
  
 ### blog 
 
